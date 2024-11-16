@@ -81,6 +81,25 @@
     
 // }
 
+// let temp=50
+//if (temp>30){
+// console.log("too hot")}
+
+// let marks=75
+// if (marks>=50){
+//     console.log("passed");
+    
+// }
+
+
+// let nemessage=5;
+// if (nemessage>0){
+//     console.log("new message");
+    
+// }
+
+
+
 
 
 //true values

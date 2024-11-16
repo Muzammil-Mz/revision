@@ -1,8 +1,8 @@
 // global scoping
 
 
-let a=20
-let b=30
+// let a=20
+// let b=30
 
 // {
 //     console.log("from inside",a,b);
