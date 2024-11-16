@@ -60,16 +60,16 @@
 
 
 
-let study="hard"
-if (study=="hard"){
-    console.log("pass");
+// let study="d"
+// if (study=="hard"){
+//     console.log("pass");
     
-} else {
-    console.log("fail");
+// } else {
+//     console.log("fail");
     
-}
+// }
 
-// let weather="sunny"
+// let weather="bright"
 // if(weather=="sunny"){
 //     console.log("lets go to picnic");
     
@@ -78,11 +78,22 @@ if (study=="hard"){
     
 // }
 
-// let light ="green"
+// let light ="red"
 // if (light=="green"){
 //     console.log("can go");
     
 // }else {
 //     console.log("stop");
+    
+// }
+
+
+
+// let islight=""
+// if (islight){
+//     console.log("stop");
+    
+// } else{
+//     console.log("sorry");
     
 // }
