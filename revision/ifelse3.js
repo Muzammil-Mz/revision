@@ -89,8 +89,8 @@
 
 
 
-// let islight=""
-// if (islight){
+// let light="54"
+// if (light){
 //     console.log("stop");
     
 // } else{
