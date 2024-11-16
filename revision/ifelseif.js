@@ -72,21 +72,21 @@
 //    - 10% discount for $100-$500
 //    - 20% discount for > $500
 
-let price=800
+// let price=800
 
-if (price<100){
-    console.log("sorry");
+// if (price<100){
+//     console.log("sorry");
     
-} else if (price>=100 && price<500){
-    console.log(`you avail 10 percent discount`);
-    console.log(`discount price ${price/10} from ${price} `);
+// } else if (price>=100 && price<500){
+//     console.log(`you avail 10 percent discount`);
+//     console.log(`discount price ${price/10} from ${price} `);
     
     
-} else if (price>=500){
-    console.log(`you avail discount of 20 percent`);
-    console.log(`discount price ${price/20} from ${price}`);
+// } else if (price>=500){
+//     console.log(`you avail discount of 20 percent`);
+//     console.log(`discount price ${price/20} from ${price}`);
     
-}
+// }
 
 
 
