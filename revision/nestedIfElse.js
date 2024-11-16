@@ -126,3 +126,16 @@
 // If it's a savings account, print "Access granted to savings account."
 // If it's a checking account, print "Access granted to checking account."
 // If the user is not logged in, print "Please log in to access your account."
+
+
+let account="saving"
+if (account=="savings"){
+    console.log("access granted for savings");
+    
+} else if (account=="checking acount"){
+    console.log("access granted for checking account");
+    
+} else {
+    console.log("please login");
+    
+}
