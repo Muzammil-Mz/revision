@@ -56,3 +56,33 @@
 //     console.log("sorry");
     
 // }
+
+
+
+
+let study="hard"
+if (study=="hard"){
+    console.log("pass");
+    
+} else {
+    console.log("fail");
+    
+}
+
+// let weather="sunny"
+// if(weather=="sunny"){
+//     console.log("lets go to picnic");
+    
+// } else {
+//     console.log("cancl");
+    
+// }
+
+// let light ="green"
+// if (light=="green"){
+//     console.log("can go");
+    
+// }else {
+//     console.log("stop");
+    
+// }
